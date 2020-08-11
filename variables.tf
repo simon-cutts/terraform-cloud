@@ -4,11 +4,11 @@ variable "aws_region" {
 }
 
 variable "aws_access_key_id" {
-  type    = "AKIAJL5NO7L3OQNLKE2Q"
+  type    = string
 }
 
 variable "aws_secret_access_key" {
-  type    = "YXP7lf6vi537k3Z4dUG5niIt8m/sdRpdZgf8+HHh"
+  type    = string
 }
 
 variable "db_table_name" {
