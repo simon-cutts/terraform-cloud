@@ -28,5 +28,5 @@ variable "db_write_capacity" {
 
 variable "tag_user_name" {
   type = string
-  default = "terraform-user"
+  default = "new-terraform-user"
 }
